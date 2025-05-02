@@ -1,15 +1,3 @@
-# FinchEvard.github.io
-Three or more...
-
+# FinchEvard
 ---
-
-Hyphens
-
-***
-
-Asterisks
-what will this do...
-___
-
-Underscores
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+<span style="color:red">Hello, welcome to my website! This is a showcase of my class experiments...</span>
