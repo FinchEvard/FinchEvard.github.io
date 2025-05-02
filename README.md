@@ -11,3 +11,7 @@ Comic #1
 
 ---
 <span style="color:red">**The End.**</span>
+
+Now here are some photos.
+
+---
