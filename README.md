@@ -1,6 +1,12 @@
 Portfolio
 ---
-<span style="color:red">Hello, welcome to my website! This is a showcase of my class experiments...</span>
+<span style="color:red">Hello, welcome to my very first website. </span>
 
+Comic #1
 
-![alt text]()
+---
+![alt text](pamlcover.png)
+![alt text](palm.png)
+
+---
+<span style="color:red">**The End.**</span>
