@@ -16,4 +16,5 @@ Portfolio
 ---
 
 <span style="color:red">**Now here are some photos.**</span>
-![alder](https://github.com/user-attachments/assets/7e8abd60-de85-485c-8b77-046c14296e4c)
+
+<img width="659" alt="Screenshot 2025-05-16 at 3 17 34 PM" src="https://github.com/user-attachments/assets/03a90edd-4f67-4765-9ed6-8fa7bfe2ba4e" />
