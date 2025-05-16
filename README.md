@@ -1,6 +1,6 @@
 Portfolio
 ---
-<span style="color:red">Hello, welcome to my very first website. </span>
+<span style="color:red">Hello, welcome to my first website. </span>
 
 **some drawings**
 <img width="642" alt="Screenshot 2025-05-16 at 3 31 57 PM" src="https://github.com/user-attachments/assets/919425f3-1484-4c68-8cfd-527e4308cadd" />
