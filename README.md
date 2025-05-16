@@ -2,13 +2,14 @@ Portfolio
 ---
 <span style="color:red">Hello, welcome to my very first website. </span>
 
-**Comic #1**
+**some drawings**
+<img width="642" alt="Screenshot 2025-05-16 at 3 31 57 PM" src="https://github.com/user-attachments/assets/919425f3-1484-4c68-8cfd-527e4308cadd" />
+<img width="594" alt="Screenshot 2025-05-16 at 3 30 21 PM" src="https://github.com/user-attachments/assets/6ea70e82-860b-405c-b686-3d91cf6d36a0" />
 
-![alt text](pamlcover.png)
+<img width="638" alt="Screenshot 2025-05-16 at 3 31 31 PM" src="https://github.com/user-attachments/assets/0efb4db3-9214-4a7e-a674-50b9a982c7c3" />
+<img width="573" alt="Screenshot 2025-05-16 at 3 29 10 PM" src="https://github.com/user-attachments/assets/3163c0cb-0fb4-4c36-8424-7c8a22776c49" />
+<img width="628" alt="Screenshot 2025-05-16 at 3 29 53 PM" src="https://github.com/user-attachments/assets/3e560e23-6452-49bf-b2a1-589fb14ebb9b" />
 
-![alt text](palm.png)
-
-![alt text](theend.png)
 
 
 **The End.**
